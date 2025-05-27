@@ -1,3 +1,10 @@
+-- Legal Case Management Analytics System
+-- This SQL file defines a relational schema for a fictional law firm and includes:
+-- 1. Table creation with constraints
+-- 2. Business logic (trigger for automated billing calculation)
+-- 3. Sample data inserts
+-- 4. Analytical SQL queries simulating business insights
+
 --1
 create table client(
 	cname varchar(20),
